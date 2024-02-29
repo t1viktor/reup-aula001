@@ -22,8 +22,8 @@
 
 ::selection{
 
-    color: var(--cor1);
-    background-color: var(--cor3);
+    color: var(--cor3);
+    background-color: var(--cor1);
 
 }
 
@@ -31,6 +31,7 @@ body {
     height: 100vh;
     text-align: center;
     align-items: center;
+    background-color: #ffffff;
 
 }
 
